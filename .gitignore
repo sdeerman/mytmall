@@ -1,11 +1,4 @@
-##ignore files##
-
-/target/
-tmallDemo.iml
-out
-.idea
-.idea
-logs
-
-src\main\webapp\*.html
-
+"node_modules/" 
+"target/" 
+".idea/" 
+"*.iml" 
